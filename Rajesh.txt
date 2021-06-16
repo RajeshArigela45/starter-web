@@ -1,3 +1,0 @@
-Hi I'm commiting the change from local to Remote Repo
-
-Testing Tracked File Example
