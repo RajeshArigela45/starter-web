@@ -8,7 +8,7 @@ Adding Pupose Description
 
 ##Deployment
 
-Adding intro description
+what we do exactly in deployment?
 
 ##Intorduction
 
