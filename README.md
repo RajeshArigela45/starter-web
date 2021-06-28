@@ -1,6 +1,6 @@
 #Starter_Web_Project
 
-This is sample one
+This is sample one for checking rebase
 
 ##Purpose
 
